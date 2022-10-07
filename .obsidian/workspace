@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ea7edd8a4979ea6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1088f6288620234d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EBE/EBE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45f0dec578ad21c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b29aeea00113880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53fdd36fd50ca688",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03d4741562db687f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c9ab6913230f54b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb84e4012f097440",
+    "type": "split",
+    "children": [
+      {
+        "id": "af887817187a8c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "973988effe12f865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EBE/EBE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30af931c6f3f4d58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EBE/EBE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adebfb67528d5714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4165563553a80e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EBE/EBE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1088f6288620234d",
+  "lastOpenFiles": [
+    "README.md",
+    "Ordering.md",
+    "EBE/EBE.md",
+    "EBE/Síť TT.md",
+    "EBE/Síť IT.md",
+    "EBE/Síť TN-C.md",
+    "EBE/Síť TN-C,S.md",
+    "EBE/Síť TN-S.md",
+    "Templates/Template.md",
+    "EKO/Daně.md"
+  ]
+}
