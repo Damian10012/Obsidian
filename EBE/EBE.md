@@ -1,8 +1,8 @@
 Links: [[Ordering]]
 
 ---
-- [[Síť TT]]
-- [[Síť IT]]
-- [[Síť TN-S]]
-- [[Síť TN-C]]
-- [[Síť TN-C,S]]
+[[Síť IT.md]]
+[[Síť TN-C,S.md]]
+[[Síť TN-C.md]]
+[[Síť TN-S.md]]
+[[Síť TT.md]]

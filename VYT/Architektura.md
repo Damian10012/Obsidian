@@ -1,4 +1,6 @@
 # Architektura - 11-10-2021
+Links: [[VYT]]
+
 ---
 ## Harvardská architektura
 - Navržena Howardem Aikenem v třicátých letech minulého století na Harvardské univerzitě

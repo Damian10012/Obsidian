@@ -41,4 +41,6 @@ GUI = graphic user interface
 - HDD/SSD = > 32 GB, SAS (Serial Attach SSI), SATAIII
 - Síť = 1x Ethernet, 1 gigabit
 
+
+
 [Full course](https://www.youtube.com/playlist?list=PLYogJ_kxL1wTesq-vNxEc8tjDOHvszeWf)

@@ -1,4 +1,4 @@
 # {{title}} - {{date}}
-Links: 
+Links: {{links}}
 
 ---
