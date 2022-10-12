@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "SEL/Látky (1).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SEL/Látky (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SEL/Látky (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SEL/Látky (1).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1088f6288620234d",
   "lastOpenFiles": [
-    "EKO/Daně.md",
+    "SEL/Látky (1).md",
+    "SEL/SEL.md",
+    "PSE/Racky.md",
+    "Ordering.md",
+    "EBE/Untitled.md",
     "EBE/EBE.md",
     "EBE/Síť IT.md",
-    "Templates/Template TEST.md",
-    "Templates/Template.md",
-    "Ordering.md",
     "README.md",
-    "VYT/Architektura.md",
-    "VYT/BIOS.md",
-    "EKO/Peníze.md"
+    "EKO/Daně.md",
+    "Templates/Template TEST.md"
   ]
 }
