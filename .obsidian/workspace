@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEL/Látky (1).md",
+            "file": "EBE/Práce a obsluha.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEL/Látky (1).md",
+                "file": "EBE/Práce a obsluha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEL/Látky (1).md",
+                "file": "EBE/Práce a obsluha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEL/Látky (1).md"
+                "file": "EBE/Práce a obsluha.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1088f6288620234d",
   "lastOpenFiles": [
-    "SEL/Látky (1).md",
-    "SEL/SEL.md",
-    "PSE/Racky.md",
-    "Ordering.md",
-    "EBE/Untitled.md",
-    "EBE/EBE.md",
+    "EBE/Práce a obsluha.md",
+    "EBE/Síť TT.md",
     "EBE/Síť IT.md",
+    "EBE/Síť TN-C.md",
+    "SEL/Látky (1).md",
+    "EBE/Síť TN-S.md",
     "README.md",
-    "EKO/Daně.md",
-    "Templates/Template TEST.md"
+    "EBE/Síť TN-C,S.md",
+    "EBE/EBE.md",
+    "EKO/Marketing.md"
   ]
 }
