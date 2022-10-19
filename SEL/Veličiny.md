@@ -25,4 +25,3 @@ Links: [[SEL]]
 - *Q = U \* I \* sin Fí \[var\]* - jalový
 - *W = P \* t \[J, kWh\]* - práce
 - *1kWh = 3 600 000 J*
-- 
