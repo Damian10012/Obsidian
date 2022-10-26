@@ -3,5 +3,6 @@
   "cssTheme": "Dracula Official",
   "theme": "obsidian",
   "interfaceFontFamily": "Rubik",
-  "textFontFamily": "Rubik"
+  "textFontFamily": "Rubik",
+  "showViewHeader": false
 }
