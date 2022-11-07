@@ -1,7 +1,8 @@
 Links: [[Ordering]]
 
 ---
-[[Práce a obsluha]]
+[[Ochrany.md]]
+[[Práce a obsluha.md]]
 [[Síť IT.md]]
 [[Síť TN-C,S.md]]
 [[Síť TN-C.md]]

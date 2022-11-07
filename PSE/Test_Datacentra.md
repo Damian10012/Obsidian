@@ -1,0 +1,46 @@
+# Test_Datacentra - 02-11-2022
+Links: [[PSE]]
+
+---
+- Co je to datové centrum
+	- Datové centrum je budova speciálně navržena pro bezpečné uschovávání velkého množství dat a nepřetržitý hosting serverů a jiných síťových zařízení. 
+	- Části:
+		- stavební část: 
+			- to je výběr tej lokality a obecný tiering toho centra (I-IV)
+		- dvojitá podlaha: 
+			- důležitá, pod hlavní podlahou nám vedou kabely a studený vzduch
+		- elektroinstalace: 
+			- tož podle tieru, záložní zdroje a generátory, osvětlení, spotřebiče, prostě chápem se, ne? věci spojené s elektro...
+		- Klimatizace a vzduchotechnika:
+			- ta druhá nejdůležitější část
+			- jsou to ty rozvody vzduchu pod podlahou, studená ulička, teplá ulička, zvlhčování...
+		- Kabelážní systémy
+		- CCTV (Kamerový systém)
+		- ACCESS (Přístupový systém)
+		- Detekce požáru, hasící systém
+		- Výhoda datového centra:
+			- Data jsou v bezpečí
+			- železo nemusíme kupovat, ale stačí platit pronájem
+			- dobrá škálovatelnost
+			- redundance
+			- výkon
+- Jak se řeší chlazení
+	- Chlazení funguje na bázi teplé a studené uličky
+		- racky mají perforované přední a zadní dveře, tudíž studený vzduch je nasáván v přední části racku ze studené uličky
+	- způsob řešení chlazení:
+		- klimatizace
+		- minerální olej
+	![[Chlazení.png]]
+- Co je to UPS
+	- UPS je nepřetržitý zdroj napájení
+	- má v sobě akumulátor, který se nabije a potom poskytuje napájení, pokud proud vypadne
+	- značky: 
+		- apc, eaton a legrand
+	- off-line 
+		- v domácnosti, neřeší podpětí a přepětí, pomocí relé se mění výstup ze sitě/akumulátoru
+	- line interactive 
+		- středně velké podniky, stabilizuje vstupní napětí
+	- online 
+		- datacentra, nejdřív proteče přes filtry a až potom na výstup
+	- vlastnosti
+		- výkon, technologie, rozhraní, kapacita akumulátoru, min/max napětí+proud
