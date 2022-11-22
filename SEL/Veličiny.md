@@ -16,7 +16,7 @@ Links: [[SEL]]
 - *R = U/I*
 ## Proudová hustota
 - *J = I/S \[A\*mm^-2\]*
-## Proudová intenzita
+## Intenzita elektrického pole
 - *E = U/L \[V\*m^-1\]*
 ## Elektrický výkon
 - *P = U \* I \[W\]* - stejnosměrný
