@@ -10,11 +10,11 @@ Links: [[Ochrany]]
 	- Ochrana proti prachu (první číslo)
 	- Ochrana proti vodě (druhé číslo)
 	- Nejčastěji IP 20
-- **Kryt**
+- **Ochrana krytem**
 	- Nedá se ohnout, dá se rozdělat (ale jenom s nástrojem)
 - **Izolace** 
 	- Otevře se pouze zničením
-- **Ohraničení**
+- **Ochrana zábranou**
 	- Ohradníky - vysoké napětí (odpor), malý proud
 - **Ochrana pospojováním**
 	- Chrání nás to tím, že pospojujeme zařízení a vedení
@@ -30,3 +30,5 @@ Links: [[Ochrany]]
 		- Jistič je elektromagnet, takže se dá používat znovu, ale chvíli mu to trvá, proto to občas může nejdřív vypálit pojistku a až potom shodit jistič
 		- Jde tady o proud
 			- Jistič hlídá jaký proud tím protéká, na napětí se nikdo neptal
+- **Ochrana polohou**
+	- Třeba dráty el. vedení, jsou ve výšce, abychom se nedotkli
