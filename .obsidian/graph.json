@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:EBE",
@@ -68,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.5606645524459886,
-  "close": true
+  "close": false
 }
