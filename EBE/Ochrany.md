@@ -1,5 +1,5 @@
 # Ochrany - 07-11-2022
-Links: [[Ochrany]]
+Links: [[EBE]]
 
 ---
 ## Ochrany živých částí
