@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:PRG",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
