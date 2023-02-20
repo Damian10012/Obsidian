@@ -11,7 +11,6 @@ Links: [[PSE]]
 	- záleží co dostanem
 	- doporučuje se využívat Schrack -> aj u maturity
 		- cat 8.1 třeba nemá, tak je potřeba aj jinde
-	- 
 - optimální nabídka pro zákazníka
 - průměrná hodnota pro barák je 500-800m kabelu
 - 1cm = 0,5m
